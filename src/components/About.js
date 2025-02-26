@@ -8,12 +8,12 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Gabriel.
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            applications.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a passionate developer with experience in creating dynamic and
+            responsive web applications. I enjoy solving complex problems and
+            continuously learning new technologies.
           </p>
           <div className="flex justify-center">
             <a
@@ -26,7 +26,7 @@ export default function About() {
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              See My Past Work
+              See My Projects
             </a>
           </div>
         </div>
