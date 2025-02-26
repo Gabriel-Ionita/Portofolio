@@ -1,3 +1,19 @@
+# My Portfolio
+
+Welcome to my personal portfolio project! This is a React-based web application showcasing my skills, projects, and experience.
+
+## Live Project
+
+🚀 Check out the live project here: [My Portfolio](https://gabriel-ionita.github.io/Portofolio/)
+
+## Project Overview
+
+This portfolio is built using:
+
+- React
+- Tailwind CSS
+- GitHub Pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
