@@ -3,7 +3,7 @@ export const projects = [
     title: "IT School Clone",
     subtitle: "HTML & Bootstrap",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This is a clone of the IT School website. It was built with HTML, CSS, and Bootstrap.",
     image: "./project-1.gif",
     link: "https://igabriel-clonaitschool.netlify.app/",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Pig Game",
     subtitle: "Vanilla Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Pig Game is a simple dice game. The game has 2 players, playing in rounds. In each turn, a player rolls a dice as many times as he wishes. Each result gets added to his ROUND score. But, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn. The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn.",
     image: "./pigGame.gif",
     link: "https://score-100.netlify.app/",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "DevChat",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "DevChat is a chat application that allows developers to communicate in real-time. It uses React on the front end, Firebase on the back end, and Redux for state management.",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Epic Todo App",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This is a simple todo app built with React Hooks. It uses the local storage to persist the data.",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
